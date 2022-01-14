@@ -1,0 +1,1 @@
+/*3 ./lit/2.1.1/directives/unsafe-svg.js */export * from "../2.1.1/directives/unsafe-svg.js";
