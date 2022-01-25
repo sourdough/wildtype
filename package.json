@@ -1,6 +1,6 @@
 {
   "name": "wildtype",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "external transformed dependencies as importable ES modules",
   "repository": {
     "type": "git",
