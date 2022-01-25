@@ -1,9 +1,0 @@
-{
-  "name": "wildtype",
-  "version": "0.0.1",
-  "description": "external transformed dependencies as importable ES modules",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sourdough/wildtype.git"
-  }
-}
