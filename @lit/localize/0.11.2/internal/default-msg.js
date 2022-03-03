@@ -1,0 +1,14 @@
+/* https://unpkg.com/@lit/localize@0.11.2/internal/default-msg.js?module */ /**
+ * @license
+ * Copyright 2021 Google LLC
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+import { isStrTagged, joinStringsAndValues } from "./str-tag.js";
+/**
+                                                                          * Default identity msg implementation. Simply returns the input template with
+                                                                          * no awareness of translations. If the template is str-tagged, returns it in
+                                                                          * string form.
+                                                                          */
+export const defaultMsg = template => isStrTagged(template) ?
+joinStringsAndValues(template.strings, template.values) :
+template;

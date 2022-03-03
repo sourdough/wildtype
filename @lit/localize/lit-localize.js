@@ -1,0 +1,1 @@
+/*3 ./@lit/localize/0.11.2/lit-localize.js */export * from "./0.11.2/lit-localize.js";

@@ -1,1 +1,1 @@
-/*3 ./lit/2.1.1/directives/when.js */export * from "../2.1.1/directives/when.js";
+/*3 ./lit/2.2.0/directives/when.js */export * from "../2.2.0/directives/when.js";

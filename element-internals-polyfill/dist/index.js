@@ -1,0 +1,1 @@
+/*3 ./element-internals-polyfill/1.0.3/dist/index.js */import "../1.0.3/dist/index.js";

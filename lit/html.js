@@ -1,1 +1,1 @@
-/*3 ./lit/2.1.1/html.js */export * from "./2.1.1/html.js";
+/*3 ./lit/2.2.0/html.js */export * from "./2.2.0/html.js";
