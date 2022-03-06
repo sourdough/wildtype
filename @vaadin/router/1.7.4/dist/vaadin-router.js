@@ -131,6 +131,7 @@ function loadBundle(bundle) {
 }
 
 function fireRouterEvent(type, detail) {
+console.warn(`vaadin-router-${type}`, {detail});
   return !window.dispatchEvent(new CustomEvent(
   `vaadin-router-${type}`,
   { cancelable: type === 'go', detail }));
@@ -1300,12 +1301,14 @@ function animate(elem, className) {
 
   return new Promise(resolve => {
     if (willAnimate(elem)) {
+    /*
       const rect = elem.getBoundingClientRect();
       const size = `height: ${rect.bottom - rect.top}px; width: ${rect.right - rect.left}px`;
       elem.setAttribute('style', `position: absolute; ${size}`);
+      */
       waitForAnimation(elem, () => {
         elem.classList.remove(className);
-        elem.removeAttribute('style');
+        //elem.removeAttribute('style');
         resolve();
       });
     } else {
