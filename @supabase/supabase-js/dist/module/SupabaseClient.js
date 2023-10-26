@@ -1,0 +1,1 @@
+/*3 ./@supabase/supabase-js/2.38.3/dist/module/SupabaseClient.js */export * from "../../2.38.3/dist/module/SupabaseClient.js";
