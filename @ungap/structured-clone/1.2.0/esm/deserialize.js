@@ -1,4 +1,4 @@
-/* https://cdn.jsdelivr.net/npm/@ungap/structured-clone@1.2.0/esm/deserialize.js */ import {
+/* https://unpkg.com/@ungap/structured-clone@1.2.0/esm/deserialize.js */ import {
   VOID, PRIMITIVE,
   ARRAY, OBJECT,
   DATE, REGEXP, MAP, SET,

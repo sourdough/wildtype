@@ -1,4 +1,4 @@
-/* https://cdn.jsdelivr.net/npm/@ungap/structured-clone@1.2.0/esm/index.js */ import {deserialize} from "./deserialize.js";
+/* https://unpkg.com/@ungap/structured-clone@1.2.0/esm/index.js */ import {deserialize} from "./deserialize.js";
 import {serialize} from "./serialize.js";
 
 /**

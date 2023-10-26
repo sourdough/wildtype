@@ -1,4 +1,4 @@
-/* https://cdn.jsdelivr.net/npm/construct-style-sheets-polyfill@3.1.0/dist/adoptedStyleSheets.js */ (function () {
+/* https://unpkg.com/construct-style-sheets-polyfill@3.1.0/dist/adoptedStyleSheets.js */ (function () {
     'use strict';
 
     if (typeof document === 'undefined' || 'adoptedStyleSheets' in document) { return; }

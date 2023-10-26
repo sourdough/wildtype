@@ -1,4 +1,4 @@
-/* https://cdn.jsdelivr.net/npm/element-internals-polyfill@1.3.9/dist/index.js */ (function () {
+/* https://unpkg.com/element-internals-polyfill@1.3.9/dist/index.js */ (function () {
     'use strict';
 
     const refMap = new WeakMap();
