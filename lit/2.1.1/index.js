@@ -1,1 +1,0 @@
-/* https://unpkg.com/lit@2.1.1/index.js?module */ import "../../@lit/reactive-element.js";import "../../lit-html.js";export * from "../../lit-element/3.1.0/lit-element.js";

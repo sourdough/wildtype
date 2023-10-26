@@ -1,2 +1,0 @@
-/*-https://unpkg.com/@lit/reactive-element@^1.3.0?module redirected to https://unpkg.com/@lit/reactive-element@1.3.0/reactive-element.js?module
-		*/ export * from "./reactive-element/1.3.0/reactive-element.js";

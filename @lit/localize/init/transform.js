@@ -1,1 +1,1 @@
-/*3 ./@lit/localize/0.11.2/init/transform.js */export * from "../0.11.2/init/transform.js";
+/*3 ./@lit/localize/0.12.0/init/transform.js */export * from "../0.12.0/init/transform.js";

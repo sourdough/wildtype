@@ -1,0 +1,1 @@
+/*3 ./@lit/reactive-element/2.0.0/reactive-element.js */export * from "./2.0.0/reactive-element.js";

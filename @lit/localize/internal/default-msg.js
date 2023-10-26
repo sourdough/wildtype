@@ -1,1 +1,1 @@
-/*3 ./@lit/localize/0.11.2/internal/default-msg.js */export * from "../0.11.2/internal/default-msg.js";
+/*3 ./@lit/localize/0.12.0/internal/default-msg.js */export * from "../0.12.0/internal/default-msg.js";

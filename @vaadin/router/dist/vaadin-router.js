@@ -1,1 +1,1 @@
-/*3 ./@vaadin/router/1.7.4/dist/vaadin-router.js */export * from "../1.7.4/dist/vaadin-router.js";
+/*3 ./@vaadin/router/1.7.5/dist/vaadin-router.js */export * from "../1.7.5/dist/vaadin-router.js";
