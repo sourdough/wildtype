@@ -1,2 +1,2 @@
-/*-https://unpkg.com/@supabase/realtime-js@^2.8.2?module redirected to https://unpkg.com/@supabase/realtime-js@2.8.4/dist/module/index.js?module
+/*-https://unpkg.com/@supabase/realtime-js@^2.8.4?module redirected to https://unpkg.com/@supabase/realtime-js@2.8.4/dist/module/index.js?module
 		*/ export * from "./realtime-js/2.8.4/dist/module/index.js";

@@ -1,0 +1,1 @@
+/*3 ./@lit/context/1.0.1/lib/decorators/consume.js */export * from "../../1.0.1/lib/decorators/consume.js";

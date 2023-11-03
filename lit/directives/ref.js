@@ -1,1 +1,1 @@
-/*3 ./lit/3.0.0/directives/ref.js */export * from "../3.0.0/directives/ref.js";
+/*3 ./lit/3.0.2/directives/ref.js */export * from "../3.0.2/directives/ref.js";

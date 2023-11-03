@@ -1,1 +1,1 @@
-/*3 ./lit/3.0.0/directives/range.js */export * from "../3.0.0/directives/range.js";
+/*3 ./lit/3.0.2/directives/range.js */export * from "../3.0.2/directives/range.js";
