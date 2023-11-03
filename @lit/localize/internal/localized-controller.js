@@ -1,1 +1,1 @@
-/*3 ./@lit/localize/0.12.0/internal/localized-controller.js */export * from "../0.12.0/internal/localized-controller.js";
+/*3 ./@lit/localize/0.12.1/internal/localized-controller.js */export * from "../0.12.1/internal/localized-controller.js";
