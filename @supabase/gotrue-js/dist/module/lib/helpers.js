@@ -1,1 +1,1 @@
-/*3 ./@supabase/gotrue-js/2.57.0/dist/module/lib/helpers.js */export * from "../../../2.57.0/dist/module/lib/helpers.js";
+/*3 ./@supabase/gotrue-js/2.62.0/dist/module/lib/helpers.js */export * from "../../../2.62.0/dist/module/lib/helpers.js";

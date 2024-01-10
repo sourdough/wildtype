@@ -1,0 +1,1 @@
+/* https://unpkg.com/@supabase/postgrest-js@1.9.1/dist/module/version.js?module */ export const version = '1.9.1';

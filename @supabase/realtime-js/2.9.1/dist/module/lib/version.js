@@ -1,0 +1,1 @@
+/* https://unpkg.com/@supabase/realtime-js@2.9.1/dist/module/lib/version.js?module */ export const version = '2.9.1';

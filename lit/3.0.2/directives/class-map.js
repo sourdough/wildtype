@@ -4,5 +4,5 @@
  *
  * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
  */
-export*from"../../../lit-html/3.0.2/directives/class-map.js";export default null;
-//# sourceMappingURL=/sm/3d443306e4676a5032f6d2aef4f4d3f2126bf4991f0406e2411b43d8bd8d6c6b.map
+export*from"../../../lit-html/3.1.1/directives/class-map.js";export default null;
+//# sourceMappingURL=/sm/a508b4b42b0d5ca35e90bb199094e528006195eac8eaccd5026ccf088160ef4b.map

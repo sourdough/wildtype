@@ -1,1 +1,1 @@
-/*3 ./@supabase/gotrue-js/2.57.0/dist/module/GoTrueClient.js */export * from "../../2.57.0/dist/module/GoTrueClient.js";
+/*3 ./@supabase/gotrue-js/2.62.0/dist/module/GoTrueClient.js */export * from "../../2.62.0/dist/module/GoTrueClient.js";

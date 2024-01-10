@@ -1,1 +1,1 @@
-/*3 ./@supabase/storage-js/2.5.4/dist/module/lib/errors.js */export * from "../../../2.5.4/dist/module/lib/errors.js";
+/*3 ./@supabase/storage-js/2.5.5/dist/module/lib/errors.js */export * from "../../../2.5.5/dist/module/lib/errors.js";

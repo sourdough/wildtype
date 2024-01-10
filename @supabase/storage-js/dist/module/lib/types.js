@@ -1,1 +1,1 @@
-/*3 ./@supabase/storage-js/2.5.4/dist/module/lib/types.js */export * from "../../../2.5.4/dist/module/lib/types.js";
+/*3 ./@supabase/storage-js/2.5.5/dist/module/lib/types.js */export * from "../../../2.5.5/dist/module/lib/types.js";

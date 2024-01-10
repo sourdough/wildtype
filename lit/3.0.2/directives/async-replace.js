@@ -4,5 +4,5 @@
  *
  * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
  */
-export*from"../../../lit-html/3.0.2/directives/async-replace.js";export default null;
-//# sourceMappingURL=/sm/c40b1cdc07023310f53ac088fe51c105aa5c3601a5e0c3b6093d03fdf697a708.map
+export*from"../../../lit-html/3.1.1/directives/async-replace.js";export default null;
+//# sourceMappingURL=/sm/0d461cf824b1073b19128d4deb807c04c939b4994bb4aab66ed315a84dc5d073.map

@@ -1,2 +1,2 @@
-/*-https://unpkg.com/@supabase/storage-js@^2.5.4?module redirected to https://unpkg.com/@supabase/storage-js@2.5.4/dist/module/index.js?module
-		*/ export * from "./storage-js/2.5.4/dist/module/index.js";
+/*-https://unpkg.com/@supabase/storage-js@^2.5.4?module redirected to https://unpkg.com/@supabase/storage-js@2.5.5/dist/module/index.js?module
+		*/ export * from "./storage-js/2.5.5/dist/module/index.js";

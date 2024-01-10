@@ -1,1 +1,1 @@
-/*3 ./lit/3.0.2/directives/unsafe-html.js */export * from "../3.0.2/directives/unsafe-html.js";
+/*3 ./lit/3.1.1/directives/unsafe-html.js */export * from "../3.1.1/directives/unsafe-html.js";

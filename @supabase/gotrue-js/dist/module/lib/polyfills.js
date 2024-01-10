@@ -1,1 +1,1 @@
-/*3 ./@supabase/gotrue-js/2.57.0/dist/module/lib/polyfills.js */export * from "../../../2.57.0/dist/module/lib/polyfills.js";
+/*3 ./@supabase/gotrue-js/2.62.0/dist/module/lib/polyfills.js */export * from "../../../2.62.0/dist/module/lib/polyfills.js";

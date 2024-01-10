@@ -1,1 +1,1 @@
-/*3 ./@supabase/postgrest-js/1.8.5/dist/module/PostgrestTransformBuilder.js */export * from "../../1.8.5/dist/module/PostgrestTransformBuilder.js";
+/*3 ./@supabase/postgrest-js/1.9.1/dist/module/PostgrestTransformBuilder.js */export * from "../../1.9.1/dist/module/PostgrestTransformBuilder.js";

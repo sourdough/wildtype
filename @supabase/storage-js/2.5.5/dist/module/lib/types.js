@@ -1,0 +1,1 @@
+/* https://unpkg.com/@supabase/storage-js@2.5.5/dist/module/lib/types.js?module */ export {};

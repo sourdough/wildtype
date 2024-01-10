@@ -1,1 +1,1 @@
-/*3 ./@supabase/supabase-js/2.38.4/dist/module/lib/fetch.js */export * from "../../../2.38.4/dist/module/lib/fetch.js";
+/*3 ./@supabase/supabase-js/2.39.2/dist/module/lib/fetch.js */export * from "../../../2.39.2/dist/module/lib/fetch.js";

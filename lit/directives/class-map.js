@@ -1,1 +1,1 @@
-/*3 ./lit/3.0.2/directives/class-map.js */export * from "../3.0.2/directives/class-map.js";
+/*3 ./lit/3.1.1/directives/class-map.js */export * from "../3.1.1/directives/class-map.js";

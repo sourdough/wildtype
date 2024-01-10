@@ -1,1 +1,1 @@
-/*3 ./lit/3.0.2/directives/async-replace.js */export * from "../3.0.2/directives/async-replace.js";
+/*3 ./lit/3.1.1/directives/async-replace.js */export * from "../3.1.1/directives/async-replace.js";
