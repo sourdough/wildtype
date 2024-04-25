@@ -1,1 +1,1 @@
-/*3 ./@supabase/realtime-js/2.9.1/dist/module/lib/serializer.js */export * from "../../../2.9.1/dist/module/lib/serializer.js";
+/*3 ./@supabase/realtime-js/2.9.4/dist/module/lib/serializer.js */export * from "../../../2.9.4/dist/module/lib/serializer.js";

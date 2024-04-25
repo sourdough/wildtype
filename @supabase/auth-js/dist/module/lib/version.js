@@ -1,0 +1,1 @@
+/*3 ./@supabase/auth-js/2.64.1/dist/module/lib/version.js */export * from "../../../2.64.1/dist/module/lib/version.js";

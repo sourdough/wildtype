@@ -1,0 +1,1 @@
+/* https://unpkg.com/@supabase/supabase-js@2.42.7/dist/module/lib/version.js?module */ export const version = '2.42.7';

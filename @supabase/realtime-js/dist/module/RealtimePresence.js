@@ -1,1 +1,1 @@
-/*3 ./@supabase/realtime-js/2.9.1/dist/module/RealtimePresence.js */export * from "../../2.9.1/dist/module/RealtimePresence.js";
+/*3 ./@supabase/realtime-js/2.9.4/dist/module/RealtimePresence.js */export * from "../../2.9.4/dist/module/RealtimePresence.js";

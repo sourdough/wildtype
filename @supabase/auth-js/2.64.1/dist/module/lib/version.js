@@ -1,0 +1,1 @@
+/* https://unpkg.com/@supabase/auth-js@2.64.1/dist/module/lib/version.js?module */ export const version = '2.64.1';

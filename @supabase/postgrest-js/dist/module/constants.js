@@ -1,1 +1,1 @@
-/*3 ./@supabase/postgrest-js/1.9.1/dist/module/constants.js */export * from "../../1.9.1/dist/module/constants.js";
+/*3 ./@supabase/postgrest-js/1.15.2/dist/module/constants.js */export * from "../../1.15.2/dist/module/constants.js";

@@ -1,1 +1,1 @@
-/*3 ./@supabase/supabase-js/2.39.2/dist/module/index.js */export * from "../../2.39.2/dist/module/index.js";
+/*3 ./@supabase/supabase-js/2.42.7/dist/module/index.js */export * from "../../2.42.7/dist/module/index.js";
