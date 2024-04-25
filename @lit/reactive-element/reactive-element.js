@@ -1,1 +1,1 @@
-/*3 ./@lit/reactive-element/2.0.3/reactive-element.js */export * from "./2.0.3/reactive-element.js";
+/*3 ./@lit/reactive-element/2.0.4/reactive-element.js */export * from "./2.0.4/reactive-element.js";

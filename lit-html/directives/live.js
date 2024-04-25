@@ -1,1 +1,1 @@
-/*3 ./lit-html/3.1.1/directives/live.js */export * from "../3.1.1/directives/live.js";
+/*3 ./lit-html/3.1.3/directives/live.js */export * from "../3.1.3/directives/live.js";

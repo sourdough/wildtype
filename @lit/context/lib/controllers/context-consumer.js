@@ -1,1 +1,1 @@
-/*3 ./@lit/context/1.1.0/lib/controllers/context-consumer.js */export * from "../../1.1.0/lib/controllers/context-consumer.js";
+/*3 ./@lit/context/1.1.1/lib/controllers/context-consumer.js */export * from "../../1.1.1/lib/controllers/context-consumer.js";

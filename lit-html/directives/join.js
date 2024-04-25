@@ -1,1 +1,1 @@
-/*3 ./lit-html/3.1.1/directives/join.js */export * from "../3.1.1/directives/join.js";
+/*3 ./lit-html/3.1.3/directives/join.js */export * from "../3.1.3/directives/join.js";

@@ -1,1 +1,1 @@
-/*3 ./@lit/context/1.1.0/lib/value-notifier.js */export * from "../1.1.0/lib/value-notifier.js";
+/*3 ./@lit/context/1.1.1/lib/value-notifier.js */export * from "../1.1.1/lib/value-notifier.js";

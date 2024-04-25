@@ -1,1 +1,1 @@
-/*3 ./@lit/context/1.1.0/lib/decorators/provide.js */export * from "../../1.1.0/lib/decorators/provide.js";
+/*3 ./@lit/context/1.1.1/lib/decorators/provide.js */export * from "../../1.1.1/lib/decorators/provide.js";
