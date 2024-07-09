@@ -1,1 +1,1 @@
-/*3 ./@lit/task/1.0.0/index.js */export * from "./1.0.0/index.js";
+/*3 ./@lit/task/1.0.1/index.js */export * from "./1.0.1/index.js";

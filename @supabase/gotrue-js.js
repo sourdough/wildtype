@@ -1,2 +1,0 @@
-/*-https://unpkg.com/@supabase/gotrue-js@^2.60.0?module redirected to https://unpkg.com/@supabase/gotrue-js@2.62.0/dist/module/index.js?module
-		*/ export * from "./gotrue-js/2.62.0/dist/module/index.js";

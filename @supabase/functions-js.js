@@ -1,2 +1,0 @@
-/*-https://unpkg.com/@supabase/functions-js@2.3.1?module redirected to https://unpkg.com/@supabase/functions-js@2.3.1/dist/module/index.js?module
-		*/ export * from "./functions-js/2.3.1/dist/module/index.js";

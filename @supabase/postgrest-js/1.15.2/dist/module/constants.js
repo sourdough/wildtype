@@ -1,2 +1,0 @@
-/* https://unpkg.com/@supabase/postgrest-js@1.15.2/dist/module/constants.js?module */ import { version } from "./version.js";
-export const DEFAULT_HEADERS = { 'X-Client-Info': `postgrest-js/${version}` };

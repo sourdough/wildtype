@@ -1,1 +1,1 @@
-/*3 ./@lit/task/1.0.0/task.js */export * from "./1.0.0/task.js";
+/*3 ./@lit/task/1.0.1/task.js */export * from "./1.0.1/task.js";

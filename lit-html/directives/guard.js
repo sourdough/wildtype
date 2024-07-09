@@ -1,1 +1,1 @@
-/*3 ./lit-html/3.1.3/directives/guard.js */export * from "../3.1.3/directives/guard.js";
+/*3 ./lit-html/3.1.4/directives/guard.js */export * from "../3.1.4/directives/guard.js";

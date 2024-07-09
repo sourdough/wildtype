@@ -1,1 +1,1 @@
-/*3 ./lit/3.1.3/directives/template-content.js */export * from "../3.1.3/directives/template-content.js";
+/*3 ./lit/3.1.4/directives/template-content.js */export * from "../3.1.4/directives/template-content.js";

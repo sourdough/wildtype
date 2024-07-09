@@ -1,2 +1,0 @@
-/*-https://unpkg.com/@supabase/postgrest-js@1.15.2?module redirected to https://unpkg.com/@supabase/postgrest-js@1.15.2/dist/module/index.js?module
-		*/ export * from "./postgrest-js/1.15.2/dist/module/index.js";

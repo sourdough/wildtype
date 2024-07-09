@@ -1,2 +1,0 @@
-/* https://unpkg.com/@supabase/functions-js@2.3.1/dist/module/index.js?module */ export { FunctionsClient } from "./FunctionsClient.js";
-export { FunctionsError, FunctionsFetchError, FunctionsHttpError, FunctionsRelayError, FunctionRegion } from "./types.js";
