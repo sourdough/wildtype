@@ -1,1 +1,1 @@
-/*3 ./@lit/localize/0.12.1/internal/id-generation.js */export * from "../0.12.1/internal/id-generation.js";
+/*3 ./@lit/localize/0.12.2/internal/id-generation.js */export * from "../0.12.2/internal/id-generation.js";

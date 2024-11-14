@@ -1,1 +1,1 @@
-/*3 ./lit/3.1.4/directives/style-map.js */export * from "../3.1.4/directives/style-map.js";
+/*3 ./lit/3.2.1/directives/style-map.js */export * from "../3.2.1/directives/style-map.js";

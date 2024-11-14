@@ -1,1 +1,1 @@
-/*3 ./@lit/localize/0.12.1/internal/locale-status-event.js */export * from "../0.12.1/internal/locale-status-event.js";
+/*3 ./@lit/localize/0.12.2/internal/locale-status-event.js */export * from "../0.12.2/internal/locale-status-event.js";
