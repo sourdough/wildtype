@@ -1,0 +1,1 @@
+/*3 ./@vaadin/router/2.0.0/dist/router-config.js */import "../2.0.0/dist/router-config.js";

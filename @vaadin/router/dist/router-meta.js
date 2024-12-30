@@ -1,0 +1,1 @@
+/*3 ./@vaadin/router/2.0.0/dist/router-meta.js */import "../2.0.0/dist/router-meta.js";

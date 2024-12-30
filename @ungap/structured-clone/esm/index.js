@@ -1,1 +1,1 @@
-/*3 ./@ungap/structured-clone/1.2.0/esm/index.js */export * from "../1.2.0/esm/index.js";
+/*3 ./@ungap/structured-clone/1.2.1/esm/index.js */export * from "../1.2.1/esm/index.js";
