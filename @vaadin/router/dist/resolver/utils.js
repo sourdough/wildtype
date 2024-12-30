@@ -1,1 +1,0 @@
-/*3 ./@vaadin/router/2.0.0/dist/resolver/utils.js */export * from "../../2.0.0/dist/resolver/utils.js";
