@@ -1,5 +1,5 @@
 /* https://cdn.jsdelivr.net/npm/lit-element@4.1.1/lit-element.js/+esm */ /**
- * Bundled by jsDelivr using Rollup v2.79.1 and Terser v5.19.2.
+ * Bundled by jsDelivr using Rollup v2.79.2 and Terser v5.37.0.
  * Original file: /npm/lit-element@4.1.1/lit-element.js
  *
  * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
