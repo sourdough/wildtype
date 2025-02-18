@@ -1,0 +1,1 @@
+/*3 ./@simplewebauthn/server/13.1.1/esm/registration/verifications/verifyAttestationAndroidKey.js */export * from "../../../13.1.1/esm/registration/verifications/verifyAttestationAndroidKey.js";

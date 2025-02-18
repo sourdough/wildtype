@@ -1,0 +1,1 @@
+/*3 ./@simplewebauthn/browser/13.1.0/esm/types/index.js */export * from "../../13.1.0/esm/types/index.js";

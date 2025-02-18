@@ -1,0 +1,1 @@
+/*3 ./@simplewebauthn/server/13.1.1/esm/helpers/validateCertificatePath.js */export * from "../../13.1.1/esm/helpers/validateCertificatePath.js";

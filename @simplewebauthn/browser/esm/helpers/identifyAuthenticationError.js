@@ -1,0 +1,1 @@
+/*3 ./@simplewebauthn/browser/13.1.0/esm/helpers/identifyAuthenticationError.js */export * from "../../13.1.0/esm/helpers/identifyAuthenticationError.js";

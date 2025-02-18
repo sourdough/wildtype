@@ -1,0 +1,1 @@
+/*3 ./@simplewebauthn/browser/13.1.0/esm/helpers/browserSupportsWebAuthn.js */export * from "../../13.1.0/esm/helpers/browserSupportsWebAuthn.js";
