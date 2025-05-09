@@ -1,0 +1,1 @@
+/*3 ./element-internals-polyfill/3.0.2/dist/patch-form-prototype.js */export * from "../3.0.2/dist/patch-form-prototype.js";

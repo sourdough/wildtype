@@ -1,0 +1,1 @@
+/*3 ./element-internals-polyfill/3.0.2/dist/HTMLFormControlsCollection.js */export * from "../3.0.2/dist/HTMLFormControlsCollection.js";

@@ -1,1 +1,1 @@
-/*3 ./element-internals-polyfill/1.3.13/dist/index.js */import "../1.3.13/dist/index.js";
+/*3 ./element-internals-polyfill/3.0.2/dist/index.js */export * from "../3.0.2/dist/index.js";
