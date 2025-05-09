@@ -16,15 +16,16 @@
  * scenarios a given error would be raised.
  */
 export class WebAuthnError extends Error {
-  constructor({ message, code, cause, name }) {
-    // @ts-ignore: help Rollup understand that `cause` is okay to set
-    super(message, { cause });
-    Object.defineProperty(this, "code", {
-      enumerable: true,
-      configurable: true,
-      writable: true,
-      value: void 0 });
-
-    this.name = name !== null && name !== void 0 ? name : cause.name;
-    this.code = code;
-  }}
+    constructor({ message, code, cause, name, }) {
+        // @ts-ignore: help Rollup understand that `cause` is okay to set
+        super(message, { cause });
+        Object.defineProperty(this, "code", {
+            enumerable: true,
+            configurable: true,
+            writable: true,
+            value: void 0
+        });
+        this.name = name ?? cause.name;
+        this.code = code;
+    }
+}

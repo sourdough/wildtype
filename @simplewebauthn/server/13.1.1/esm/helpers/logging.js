@@ -14,6 +14,6 @@
  * ```
  */
 export function getLogger(_name) {
-  // This is a noop for now while I search for a better debug logger technique
-  return (_message, ..._rest) => {};
+    // This is a noop for now while I search for a better debug logger technique
+    return (_message, ..._rest) => { };
 }
