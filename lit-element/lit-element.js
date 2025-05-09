@@ -1,1 +1,1 @@
-/*3 ./lit-element/4.1.1/lit-element.js */export * from "./4.1.1/lit-element.js";
+/*3 ./lit-element/4.2.0/lit-element.js */export * from "./4.2.0/lit-element.js";

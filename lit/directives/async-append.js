@@ -1,1 +1,1 @@
-/*3 ./lit/3.2.1/directives/async-append.js */export * from "../3.2.1/directives/async-append.js";
+/*3 ./lit/3.3.0/directives/async-append.js */export * from "../3.3.0/directives/async-append.js";

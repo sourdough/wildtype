@@ -1,1 +1,1 @@
-/*3 ./lit/3.2.1/directives/cache.js */export * from "../3.2.1/directives/cache.js";
+/*3 ./lit/3.3.0/directives/cache.js */export * from "../3.3.0/directives/cache.js";

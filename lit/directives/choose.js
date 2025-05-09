@@ -1,1 +1,1 @@
-/*3 ./lit/3.2.1/directives/choose.js */export * from "../3.2.1/directives/choose.js";
+/*3 ./lit/3.3.0/directives/choose.js */export * from "../3.3.0/directives/choose.js";
