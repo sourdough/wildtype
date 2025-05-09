@@ -1,4 +1,4 @@
-/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/parseBackupFlags.js */ /**
+/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/parseBackupFlags.js?module */ /**
  * Make sense of Bits 3 and 4 in authenticator indicating:
  *
  * - Whether the credential can be used on multiple devices
@@ -7,19 +7,18 @@
  * Invalid configurations will raise an `Error`
  */
 export function parseBackupFlags({ be, bs }) {
-    const credentialBackedUp = bs;
-    let credentialDeviceType = 'singleDevice';
-    if (be) {
-        credentialDeviceType = 'multiDevice';
-    }
-    if (credentialDeviceType === 'singleDevice' && credentialBackedUp) {
-        throw new InvalidBackupFlags('Single-device credential indicated that it was backed up, which should be impossible.');
-    }
-    return { credentialDeviceType, credentialBackedUp };
+  const credentialBackedUp = bs;
+  let credentialDeviceType = 'singleDevice';
+  if (be) {
+    credentialDeviceType = 'multiDevice';
+  }
+  if (credentialDeviceType === 'singleDevice' && credentialBackedUp) {
+    throw new InvalidBackupFlags('Single-device credential indicated that it was backed up, which should be impossible.');
+  }
+  return { credentialDeviceType, credentialBackedUp };
 }
 export class InvalidBackupFlags extends Error {
-    constructor(message) {
-        super(message);
-        this.name = 'InvalidBackupFlags';
-    }
-}
+  constructor(message) {
+    super(message);
+    this.name = 'InvalidBackupFlags';
+  }}

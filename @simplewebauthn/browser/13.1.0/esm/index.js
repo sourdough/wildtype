@@ -1,4 +1,4 @@
-/* https://unpkg.com/@simplewebauthn/browser@13.1.0/esm/index.js */ export * from "./methods/startRegistration.js";
+/* https://unpkg.com/@simplewebauthn/browser@13.1.0/esm/index.js?module */ export * from "./methods/startRegistration.js";
 export * from "./methods/startAuthentication.js";
 export * from "./helpers/browserSupportsWebAuthn.js";
 export * from "./helpers/platformAuthenticatorIsAvailable.js";

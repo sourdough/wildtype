@@ -1,4 +1,4 @@
-/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/services/defaultRootCerts/apple.js */ /**
+/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/services/defaultRootCerts/apple.js?module */ /**
  * Apple WebAuthn Root CA
  *
  * Downloaded from https://www.apple.com/certificateauthority/Apple_WebAuthn_Root_CA.pem

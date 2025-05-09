@@ -1,4 +1,4 @@
-/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/iso/isoCrypto/index.js */ /**
+/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/iso/isoCrypto/index.js?module */ /**
  * A runtime-agnostic collection of methods for working with the WebCrypto API
  * @module
  */

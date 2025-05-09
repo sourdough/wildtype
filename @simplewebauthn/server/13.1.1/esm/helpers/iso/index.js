@@ -1,4 +1,4 @@
-/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/iso/index.js */ /**
+/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/iso/index.js?module */ /**
  * A collection of methods for isomorphic manipulation of trickier data types
  *
  * The goal with these is to make it easier to replace dependencies later that might not play well

@@ -1,4 +1,4 @@
-/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/index.js */ export * from "./registration/generateRegistrationOptions.js";
+/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/index.js?module */ export * from "./registration/generateRegistrationOptions.js";
 export * from "./registration/verifyRegistrationResponse.js";
 export * from "./authentication/generateAuthenticationOptions.js";
 export * from "./authentication/verifyAuthenticationResponse.js";

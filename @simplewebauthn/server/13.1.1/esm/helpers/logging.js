@@ -1,4 +1,4 @@
-/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/logging.js */ // const defaultLogger = debug('SimpleWebAuthn');
+/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/logging.js?module */ // const defaultLogger = debug('SimpleWebAuthn');
 /**
  * Generate an instance of a `debug` logger that extends off of the "simplewebauthn" namespace for
  * consistent naming.
@@ -14,6 +14,6 @@
  * ```
  */
 export function getLogger(_name) {
-    // This is a noop for now while I search for a better debug logger technique
-    return (_message, ..._rest) => { };
+  // This is a noop for now while I search for a better debug logger technique
+  return (_message, ..._rest) => {};
 }

@@ -1,34 +1,34 @@
-/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/decodeAuthenticatorExtensions.js */ import { isoCBOR } from "./iso/index.js";
+/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/decodeAuthenticatorExtensions.js?module */ import { isoCBOR } from "./iso/index.js";
 /**
- * Convert authenticator extension data buffer to a proper object
- *
- * @param extensionData Authenticator Extension Data buffer
- */
+                                                  * Convert authenticator extension data buffer to a proper object
+                                                  *
+                                                  * @param extensionData Authenticator Extension Data buffer
+                                                  */
 export function decodeAuthenticatorExtensions(extensionData) {
-    let toCBOR;
-    try {
-        toCBOR = isoCBOR.decodeFirst(extensionData);
-    }
-    catch (err) {
-        const _err = err;
-        throw new Error(`Error decoding authenticator extensions: ${_err.message}`);
-    }
-    return convertMapToObjectDeep(toCBOR);
+  let toCBOR;
+  try {
+    toCBOR = isoCBOR.decodeFirst(extensionData);
+  }
+  catch (err) {
+    const _err = err;
+    throw new Error(`Error decoding authenticator extensions: ${_err.message}`);
+  }
+  return convertMapToObjectDeep(toCBOR);
 }
 /**
- * CBOR-encoded extensions can be deeply-nested Maps, which are too deep for a simple
- * `Object.entries()`. This method will recursively make sure that all Maps are converted into
- * basic objects.
- */
+   * CBOR-encoded extensions can be deeply-nested Maps, which are too deep for a simple
+   * `Object.entries()`. This method will recursively make sure that all Maps are converted into
+   * basic objects.
+   */
 function convertMapToObjectDeep(input) {
-    const mapped = {};
-    for (const [key, value] of input) {
-        if (value instanceof Map) {
-            mapped[key] = convertMapToObjectDeep(value);
-        }
-        else {
-            mapped[key] = value;
-        }
+  const mapped = {};
+  for (const [key, value] of input) {
+    if (value instanceof Map) {
+      mapped[key] = convertMapToObjectDeep(value);
+    } else
+    {
+      mapped[key] = value;
     }
-    return mapped;
+  }
+  return mapped;
 }

@@ -1,4 +1,4 @@
-/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/services/defaultRootCerts/mds.js */ /**
+/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/services/defaultRootCerts/mds.js?module */ /**
  * GlobalSign Root CA - R3
  *
  * Downloaded from https://valid.r3.roots.globalsign.com/

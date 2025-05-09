@@ -1,4 +1,4 @@
-/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/services/defaultRootCerts/android-safetynet.js */ /**
+/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/services/defaultRootCerts/android-safetynet.js?module */ /**
  * GlobalSign Root CA
  *
  * Downloaded from https://pki.goog/roots.pem

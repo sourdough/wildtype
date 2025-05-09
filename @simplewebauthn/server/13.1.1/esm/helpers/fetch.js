@@ -1,14 +1,13 @@
-/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/fetch.js */ /**
+/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/fetch.js?module */ /**
  * A simple method for requesting data via standard `fetch`. Should work
  * across multiple runtimes.
  */
 export function fetch(url) {
-    return _fetchInternals.stubThis(url);
+  return _fetchInternals.stubThis(url);
 }
 /**
- * Make it possible to stub the return value during testing
- * @ignore Don't include this in docs output
- */
+   * Make it possible to stub the return value during testing
+   * @ignore Don't include this in docs output
+   */
 export const _fetchInternals = {
-    stubThis: (url) => globalThis.fetch(url),
-};
+  stubThis: url => globalThis.fetch(url) };

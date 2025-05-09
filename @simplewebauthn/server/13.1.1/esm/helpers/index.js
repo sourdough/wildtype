@@ -1,4 +1,4 @@
-/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/index.js */ export * from "./convertAAGUIDToString.js";
+/* https://unpkg.com/@simplewebauthn/server@13.1.1/esm/helpers/index.js?module */ export * from "./convertAAGUIDToString.js";
 export * from "./convertCertBufferToPEM.js";
 export * from "./convertCOSEtoPKCS.js";
 export * from "./decodeAttestationObject.js";
