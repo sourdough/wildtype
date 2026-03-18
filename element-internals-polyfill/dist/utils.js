@@ -1,0 +1,2 @@
+/* -> ./element-internals-polyfill/3.0.2/dist/utils.js */
+export * from "./../3.0.2/dist/utils.js";

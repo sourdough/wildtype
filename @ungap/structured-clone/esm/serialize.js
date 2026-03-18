@@ -1,0 +1,2 @@
+/* -> ./@ungap/structured-clone/1.3.0/esm/serialize.js */
+export * from "./../1.3.0/esm/serialize.js";

@@ -1,0 +1,2 @@
+/* -> ./construct-style-sheets-polyfill/3.1.0/dist/adoptedStyleSheets.js */
+import "./../3.1.0/dist/adoptedStyleSheets.js";
