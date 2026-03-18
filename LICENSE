@@ -1,0 +1,5 @@
+generated content each have their respective LICENSES; refer to each;
+generated + transformed by https://github.com/sourdough/starter
+
+provided as-is, without warranty. the sanitization pipeline attempts to reduce known attack surface in vendored code but does not guarantee safety or correctness of content. review sources before use in production.
+
