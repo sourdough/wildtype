@@ -1,0 +1,2 @@
+/* -> ./@lit/localize/0.12.2/init/install.js */
+export * from "./../0.12.2/init/install.js";

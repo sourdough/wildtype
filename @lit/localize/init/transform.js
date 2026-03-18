@@ -1,0 +1,2 @@
+/* -> ./@lit/localize/0.12.2/init/transform.js */
+export * from "./../0.12.2/init/transform.js";

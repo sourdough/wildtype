@@ -1,0 +1,2 @@
+/* -> ./@lit/localize/0.12.2/internal/runtime-msg.js */
+export * from "./../0.12.2/internal/runtime-msg.js";

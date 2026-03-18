@@ -1,0 +1,2 @@
+/* -> ./@lit/localize/0.12.2/internal/deferred.js */
+export * from "./../0.12.2/internal/deferred.js";
